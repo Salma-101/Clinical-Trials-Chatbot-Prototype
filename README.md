@@ -1,4 +1,4 @@
-# Patient-Facing Clinical Trial Chatbot (Prototype)
+# Patient-Facing Clinical Trial Chatbot Prototype
 
 ## Overview
 
